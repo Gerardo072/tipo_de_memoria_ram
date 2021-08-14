@@ -1,0 +1,1 @@
+# tipo_de_memoria_ram
